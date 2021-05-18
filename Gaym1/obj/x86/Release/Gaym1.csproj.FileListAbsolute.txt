@@ -1,0 +1,111 @@
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\Content\placeholder.xnb
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\Content\rekt.xnb
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\Gaym1.exe
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\Gaym1.pdb
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\felna\source\repos\Gaym1\Gaym1\obj\x86\Release\Gaym1.csproj.CopyComplete
+C:\Users\felna\source\repos\Gaym1\Gaym1\obj\x86\Release\Gaym1.exe
+C:\Users\felna\source\repos\Gaym1\Gaym1\obj\x86\Release\Gaym1.pdb
+C:\Users\felna\source\repos\Gaym1\Gaym1\obj\x86\Release\Gaym1.csprojAssemblyReference.cache
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\Content\smol.xnb
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\Content\idle.xnb
+C:\Users\felna\source\repos\Gaym1\Gaym1\bin\Windows\x86\Release\Content\climb.xnb
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\climb.xnb
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\idle.xnb
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\placeholder.xnb
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\rekt.xnb
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\smol.xnb
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Gaym1.exe
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Gaym1.pdb
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\MonoGame.Framework.dll
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.dll
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.DXGI.dll
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.XInput.dll
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\MonoGame.Framework.xml
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.xml
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.DXGI.xml
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.XInput.xml
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\obj\x86\Release\Gaym1.csprojAssemblyReference.cache
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\obj\x86\Release\Gaym1.csproj.CopyComplete
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\obj\x86\Release\Gaym1.exe
+\\tcrw.ddns.net\files\Felnagy\Gaym1\Gaym1\obj\x86\Release\Gaym1.pdb
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\climb.xnb
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\File.xnb
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\idle.xnb
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\placeholder.xnb
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\rekt.xnb
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\smol.xnb
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Gaym1.exe
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Gaym1.pdb
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\MonoGame.Framework.dll
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.dll
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.DXGI.dll
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.XInput.dll
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\MonoGame.Framework.xml
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.xml
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.DXGI.xml
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.XInput.xml
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\obj\x86\Release\Gaym1.csprojAssemblyReference.cache
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\obj\x86\Release\Gaym1.csproj.CopyComplete
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\obj\x86\Release\Gaym1.exe
+\\tcrw.ddns.net\Files\DIY Programs and codes\Felnagy\Gaym1\Gaym1\obj\x86\Release\Gaym1.pdb
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\climb.xnb
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\File.xnb
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\idle.xnb
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\placeholder.xnb
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\rekt.xnb
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Content\smol.xnb
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Gaym1.exe
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\Gaym1.pdb
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\MonoGame.Framework.dll
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.dll
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.DXGI.dll
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.XInput.dll
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\MonoGame.Framework.xml
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.xml
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.DXGI.xml
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\bin\Windows\x86\Release\SharpDX.XInput.xml
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\obj\x86\Release\Gaym1.csprojAssemblyReference.cache
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\obj\x86\Release\Gaym1.csproj.CoreCompileInputs.cache
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\obj\x86\Release\Gaym1.csproj.CopyComplete
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\obj\x86\Release\Gaym1.exe
+X:\DIY Programs and codes\Felnagy\Gaym1\Gaym1\obj\x86\Release\Gaym1.pdb

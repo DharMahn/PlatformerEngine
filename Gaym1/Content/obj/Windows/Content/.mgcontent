@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>X:/DIY Programs and codes/Felnagy/Gaym1/Gaym1/Content/climb.png</File>
+    <File>X:/DIY Programs and codes/Felnagy/Gaym1/Gaym1/Content/File.spritefont</File>
+    <File>X:/DIY Programs and codes/Felnagy/Gaym1/Gaym1/Content/idle.png</File>
+    <File>X:/DIY Programs and codes/Felnagy/Gaym1/Gaym1/Content/metaball-falloff.bmp</File>
+    <File>X:/DIY Programs and codes/Felnagy/Gaym1/Gaym1/Content/rekt.bmp</File>
+    <File>X:/DIY Programs and codes/Felnagy/Gaym1/Gaym1/Content/smol.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>placeholder.bmp</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
